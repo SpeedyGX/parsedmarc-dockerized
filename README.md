@@ -5,7 +5,7 @@ Note: The standalone `parsedmarc` docker image on [DockerHub @ patschi/parsedmar
 ## Setup:
 1. Get basics together:
 ```
-git clone https://github.com/patschi/parsedmarc-dockerized.git /opt/parsedmarc-dockerized/
+git clone https://github.com/SpeedyGX/parsedmarc-dockerized.git /opt/parsedmarc-dockerized/
 cd /opt/parsedmarc-dockerized/ && cp data/conf/parsedmarc/config.sample.ini data/conf/parsedmarc/config.ini
 ```
 
